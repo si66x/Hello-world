@@ -1,2 +1,2 @@
 # Hello-world
-belajar git (buat repo)
+ini buat branch dengan judul edit-readme
